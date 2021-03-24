@@ -6,6 +6,7 @@ $(call inherit-product, device/samsung/fortunave3g/device.mk)
 PRODUCT_DEVICE := fortunave3g
 PRODUCT_NAME := lineage_fortunave3g
 PRODUCT_BRAND := samsung
+PRODUCT_MODEL := SM-G530H
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_CHARACTERISTICS := phone
 
